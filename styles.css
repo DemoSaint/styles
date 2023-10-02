@@ -1,0 +1,49 @@
+/* STYLES */
+
+body {
+    background: azure;
+    color: #664886;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main{
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 2px 2px 2px;
+    color: rgb(191, 23, 202)
+    
+}
+
+h2 {
+    font-size: 20px;
+    border: 2px solid black; 
+    text-align: center;
+    
+}
+
+em {
+    font-size: 25px;
+
+}
+h3 {
+font-size: 25px;
+text-indent: 20px;
+text-shadow: 1px 1px 1px;
+
+}
+h4 {
+    font-size: 25px;
+    text-indent: 20px;
+    text-shadow: 1px 1px 1px;
+
+}
